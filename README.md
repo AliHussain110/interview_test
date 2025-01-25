@@ -49,7 +49,7 @@ This is a Flutter app built as part of the Speedforce hiring task. It includes a
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](/preview/1.jpg)
+![Splash Screen](/preview/1.jpg)[width = 200, height = 200]
 
 ### Login Screen
 ![Login Screen](/preview/2.png)
@@ -75,7 +75,15 @@ This is a Flutter app built as part of the Speedforce hiring task. It includes a
 
 ## Setup Instructions
 
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/AliHussain110/interview_test.git
    cd interview_test
+
+2. **APK FILE ATTACHED**:
+   -see the apk file for preview
+
+2. **Run the app**:
+   -easy solution would be if you just download the lib, assets and pub.dependency folder and create a new flutter project in your local pc and paste these file in the folder and do flutter pub get
+   the project will run easily
